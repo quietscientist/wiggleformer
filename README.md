@@ -1,4 +1,4 @@
-# WiggleFormer: finetuning MotionGPT for infant movement generation 
+# WiggleFormer: finetuning MotionGPT for infant movement analysis 
 
 **Code coming soon**
 
