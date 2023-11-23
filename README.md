@@ -7,3 +7,4 @@
 **Step 3:** 3D Skinned Multi-Infant Model (SMIL) fitting (adapted from: [Infant Pose Estimation](https://github.com/ostadabbas/Infant-Pose-Estimation))  
 **Step 4:** Infant motion processing (adapted from: [HumanML3D](https://github.com/EricGuo5513/HumanML3D))  
 **Step 5:** GPT training (adapted from: [MotionGPT](https://github.com/OpenMotionLab/MotionGPT))  
+**Step 6:** Visualization 
