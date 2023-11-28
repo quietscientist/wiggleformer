@@ -9,3 +9,4 @@ imageio==2.31.5
 matplotlib==3.7.3
 moviepy==2.0.0.dev2
 opendr==0.78
+smplx==0.1.28
